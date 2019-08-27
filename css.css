@@ -6,6 +6,7 @@ body {
     height:100%;
     font-size:14px;
     background-image:linear-gradient(to bottom right, #E8CBC0, #636FA4);
+    background-attachment: fixed;
 }
 
 .container {
